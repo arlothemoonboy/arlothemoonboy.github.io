@@ -3,7 +3,6 @@ remote_theme: "jekyll/minima@d4d779a"
 title: The Stash
 author: 
   name: The Stash Keeper
-  email: yourmom@icloud.com
 description: is where i stash The Stash, duh.
 
 show_excerpts: true
